@@ -9,7 +9,7 @@ This app aims to make **health guidance more accessible, interactive, and intell
 
 | Intro Screen | Home Screen | Chat Screen | Chat Response |
 |---------------|--------------|--------------|----------------|
-| <img src="https://github.com/HemanthSingavarapu/MedicalAssistance/blob/6853ef3dfb653b2cc97f3fd8a08ac812f62547f9/screenshots/Intro.png" width="250"/> | <img src="https://github.com/HemanthSingavarapu/MedicalAssistance/blob/8e43294169a985705d3bfa52a3e258ec8aab4a43/screenshots/Home.png width="250"/> | <img src="https://github.com/HemanthSingavarapu/MedicalAssistance/blob/8e43294169a985705d3bfa52a3e258ec8aab4a43/screenshots/Chat.png" width="250"/> | <img src="https://github.com/HemanthSingavarapu/MedicalAssistance/blob/8e43294169a985705d3bfa52a3e258ec8aab4a43/screenshots/ChatContent.png" width="250"/> |
+| <img src="https://github.com/HemanthSingavarapu/MedicalAssistance/blob/6853ef3dfb653b2cc97f3fd8a08ac812f62547f9/screenshots/Intro.png" width="250"/> | <img src="https://github.com/HemanthSingavarapu/MedicalAssistance/blob/8e43294169a985705d3bfa52a3e258ec8aab4a43/screenshots/Home.png" width="250"/> | <img src="https://github.com/HemanthSingavarapu/MedicalAssistance/blob/8e43294169a985705d3bfa52a3e258ec8aab4a43/screenshots/Chat.png" width="250"/> | <img src="https://github.com/HemanthSingavarapu/MedicalAssistance/blob/8e43294169a985705d3bfa52a3e258ec8aab4a43/screenshots/ChatContent.png" width="250"/> |
 
 > 💡 *Replace the above image paths with your actual screenshot file paths in the `assets/images` folder.*
 
@@ -60,4 +60,5 @@ The app uses the **Groq API** to process user queries and generate intelligent r
 
    ```env
    GROQ_API_KEY=your_api_key_here
+
 
